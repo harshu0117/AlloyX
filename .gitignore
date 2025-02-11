@@ -10,7 +10,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore model and scaler files
-*.pkl
+
 
 # Ignore dataset files (if you don't want to track them)
 material.csv
