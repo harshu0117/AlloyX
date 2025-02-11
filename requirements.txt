@@ -1,0 +1,36 @@
+numpy  
+pandas  
+scikit-learn  
+matplotlib  
+seaborn  
+streamlit  
+optuna  
+joblib  
+requests  
+
+
+# # Core Scientific Libraries
+# numpy
+# pandas
+# scikit-learn
+# matplotlib
+# seaborn
+
+# # Materials Science Libraries
+# pymatgen
+# ase
+# matminer
+# mendeleev
+# mp-api
+
+# # Machine Learning
+# joblib
+# tensorflow  # Remove if not using deep learning
+# torch       # Remove if not using deep learning
+
+# # Web App (Streamlit)
+# streamlit
+
+# # Optional (Only if needed)
+# Dscribe  # Feature extraction for ML
+# pytorch-geometric  # Graph neural networks for material discovery
